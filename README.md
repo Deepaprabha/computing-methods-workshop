@@ -1,1 +1,1 @@
-# computing-methods-workshop
+# computing-methods
